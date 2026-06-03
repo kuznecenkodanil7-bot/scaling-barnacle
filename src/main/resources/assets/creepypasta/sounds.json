@@ -1,0 +1,20 @@
+{
+  "entity.haunter.screamer": {
+    "subtitle": "subtitles.creepypasta.screamer",
+    "sounds": [
+      {"name": "creepypasta:screamer", "volume": 1.0, "pitch": 0.75}
+    ]
+  },
+  "entity.haunter.breath": {
+    "subtitle": "subtitles.creepypasta.breath",
+    "sounds": [
+      {"name": "creepypasta:breath", "volume": 0.85, "pitch": 0.8}
+    ]
+  },
+  "entity.haunter.ambient": {
+    "subtitle": "subtitles.creepypasta.ambient",
+    "sounds": [
+      {"name": "creepypasta:ambient", "volume": 0.8, "pitch": 0.75}
+    ]
+  }
+}

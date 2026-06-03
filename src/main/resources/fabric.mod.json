@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "creepypasta",
+  "version": "${version}",
+  "name": "Creepypasta Abyss",
+  "description": "Gradual horror mod: entity, nightmare dimension, infection, glitches and rare screamers.",
+  "authors": ["Luis Marcelo", "OpenAI"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/creepypasta/textures/gui/screamer.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.luis.creepypasta.CreepypastaMod"],
+    "client": ["com.luis.creepypasta.client.CreepypastaClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
